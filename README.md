@@ -1,7 +1,7 @@
 # pmta-csv-processing
 
-Environments APP
-----------------
+Environments
+------------
 
 * NODE_ENV: By default is DEV. Options: DEV, PROD.
 * NODE_PORT: By default is 3000.
