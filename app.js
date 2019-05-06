@@ -18,7 +18,7 @@ const options = {
     bufferMaxEntries: 0,
     connectTimeoutMS: 10000,
     socketTimeoutMS: 45000,
-    family: 4
+   family: 4
 };
 
 if (config.node_env === 'PROD') {
