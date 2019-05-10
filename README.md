@@ -1,4 +1,4 @@
-# pmta-csv-processing
+# pmta-csv-processor
 
 Environments
 ------------
